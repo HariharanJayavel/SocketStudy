@@ -1,5 +1,4 @@
 # Ex.No:1a  			Study of Socket Programming
-
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -85,11 +84,9 @@ s.send("acknowledgement recived from the server".encode())
 ```
 
 ## Output:
-
 client.py
 
 ![Screenshot 2024-03-12 180704](https://github.com/HariharanJayavel/SocketStudy/assets/144870546/ac6321e0-054f-432b-9ff1-e06a19c0e296)
-
 server.py
 
 ![Screenshot 2024-03-12 180735](https://github.com/HariharanJayavel/SocketStudy/assets/144870546/079053b0-b4e7-48a8-a65e-fa5354a341b6)
